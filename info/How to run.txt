@@ -1,0 +1,3 @@
+-> To use the program put together the files trains_exercise.jar and Graph.txt in a folder.
+-> Open the command line and go to the folder
+-> Execute this line of code: java -jar trains_exercise.jar
